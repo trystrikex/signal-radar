@@ -1,6 +1,6 @@
 # Signal Radar für Meme Coins
 
-Lokales Frühwarnsystem für Meme-Coin-Kandidaten. Es sammelt öffentliche Marktdaten, prüft verfügbare Vertragsrisiken, kann X-Aktivität einbeziehen und führt keine Trades aus.
+Lokales Frühwarnsystem für Meme-Coins. Es sammelt öffentliche Marktdaten, prüft verfügbare Vertragsrisiken, kann X-Aktivität einbeziehen und führt keine Trades aus.
 
 ## Heute starten
 
